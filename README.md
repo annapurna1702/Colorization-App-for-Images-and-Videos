@@ -6,12 +6,6 @@ Here’s a sample README that is engaging, professional, and includes emojis for
 
 Welcome to the **Video Colorization & Image Analysis App Suite**! This project contains two powerful tools for video and image processing that will make your work more vibrant and accessible than ever. With cutting-edge machine learning models and intuitive UI, you’re ready to bring your black-and-white media to life and gain insights into your images in just a few clicks.
 
-## 🔗 Quick Links
-
-- [App 1: Video Colorization]([#-video-colorization)
-- [App 2: Image Analysis and Comparison](#-image-analysis-and-comparison)
-
----
 
 ## 📹 Video Colorization App
 
