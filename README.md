@@ -49,13 +49,6 @@ These apps were developed to simplify video colorization and image analysis for 
 
 ---
 
-## 📩 Contact & Feedback
 
-We’re always looking for feedback and suggestions! If you encounter any issues or have ideas to make these apps even better, please reach out.
-
-📧 **Email:** yourname@example.com  
-🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)  
-
----
 
 Happy exploring! 🥳
