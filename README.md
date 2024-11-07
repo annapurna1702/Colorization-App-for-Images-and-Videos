@@ -18,7 +18,7 @@ Transform old black-and-white videos into beautiful, colorized memories! This ap
 
 ### Get Started:
 👉 **[Open the Video Colorization App]**
-https://example.com/video-colorization](https://huggingface.co/spaces/annapurnapadmaprema-ji/Colorizer-for-Videos
+https://huggingface.co/spaces/annapurnapadmaprema-ji/Colorizer-for-Videos
 
 ---
 
@@ -33,7 +33,7 @@ Looking to gain insights from images or compare them to existing datasets? Our *
 
 ### Get Started:
 👉 **[Open the Image Analysis App]**
-https://example.com/image-analysis](https://huggingface.co/spaces/annapurnapadmaprema-ji/Colorizer
+https://huggingface.co/spaces/annapurnapadmaprema-ji/Colorizer
 ---
 
 
