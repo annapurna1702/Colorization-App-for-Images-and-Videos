@@ -1,6 +1,3 @@
-Here’s a sample README that is engaging, professional, and includes emojis for a bit of flair. It assumes you have two apps to link, and I’ve included placeholders for them.
-
----
 
 # 🎨 Video Colorization & Image Analysis App Suite 🎨
 
