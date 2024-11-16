@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/2bbe714f-e59a-492e-9540-23a8321dbe80)
 # 🎨 Video Colorization & Image Analysis App Suite 🎨
 
 Welcome to the **Video Colorization & Image Analysis App Suite**! This project contains two powerful tools for video and image processing that will make your work more vibrant and accessible than ever. With cutting-edge machine learning models and intuitive UI, you’re ready to bring your black-and-white media to life and gain insights into your images in just a few clicks.
@@ -45,8 +45,6 @@ These apps were developed to simplify video colorization and image analysis for 
 - **Streamlit** for a seamless user interface 🌐
 
 ---
-![image](https://github.com/user-attachments/assets/2bbe714f-e59a-492e-9540-23a8321dbe80)
-
 
 
 Happy exploring! 🥳
