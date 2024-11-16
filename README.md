@@ -1,4 +1,5 @@
-![Uploading IMAGE (2).png…]()
+![IMAGE (2)](https://github.com/user-attachments/assets/e97fcb8f-2329-41a3-abdf-c15c99dbaff3)
+
 
 # 🎨 Video Colorization & Image Analysis App Suite 🎨
 
